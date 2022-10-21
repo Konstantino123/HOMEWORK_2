@@ -1,0 +1,30 @@
+D:\USERDATA\Desktop\c#_Lesson2\HOMEWORK_2\obj\Debug\net6.0\HOMEWORK_2.csproj.AssemblyReference.cache
+D:\USERDATA\Desktop\c#_Lesson2\HOMEWORK_2\obj\Debug\net6.0\HOMEWORK_2.GeneratedMSBuildEditorConfig.editorconfig
+D:\USERDATA\Desktop\c#_Lesson2\HOMEWORK_2\obj\Debug\net6.0\HOMEWORK_2.AssemblyInfoInputs.cache
+D:\USERDATA\Desktop\c#_Lesson2\HOMEWORK_2\obj\Debug\net6.0\HOMEWORK_2.AssemblyInfo.cs
+D:\USERDATA\Desktop\c#_Lesson2\HOMEWORK_2\obj\Debug\net6.0\HOMEWORK_2.csproj.CoreCompileInputs.cache
+D:\USERDATA\Desktop\c#_Lesson2\HOMEWORK_2\bin\Debug\net6.0\HOMEWORK_2.exe
+D:\USERDATA\Desktop\c#_Lesson2\HOMEWORK_2\bin\Debug\net6.0\HOMEWORK_2.deps.json
+D:\USERDATA\Desktop\c#_Lesson2\HOMEWORK_2\bin\Debug\net6.0\HOMEWORK_2.runtimeconfig.json
+D:\USERDATA\Desktop\c#_Lesson2\HOMEWORK_2\bin\Debug\net6.0\HOMEWORK_2.dll
+D:\USERDATA\Desktop\c#_Lesson2\HOMEWORK_2\bin\Debug\net6.0\HOMEWORK_2.pdb
+D:\USERDATA\Desktop\c#_Lesson2\HOMEWORK_2\obj\Debug\net6.0\HOMEWORK_2.dll
+D:\USERDATA\Desktop\c#_Lesson2\HOMEWORK_2\obj\Debug\net6.0\refint\HOMEWORK_2.dll
+D:\USERDATA\Desktop\c#_Lesson2\HOMEWORK_2\obj\Debug\net6.0\HOMEWORK_2.pdb
+D:\USERDATA\Desktop\c#_Lesson2\HOMEWORK_2\obj\Debug\net6.0\HOMEWORK_2.genruntimeconfig.cache
+D:\USERDATA\Desktop\c#_Lesson2\HOMEWORK_2\obj\Debug\net6.0\ref\HOMEWORK_2.dll
+C:\Users\Konstantin\Desktop\хочу стать умней\c_Lesson2\HOMEWORK_2\bin\Debug\net6.0\HOMEWORK_2.exe
+C:\Users\Konstantin\Desktop\хочу стать умней\c_Lesson2\HOMEWORK_2\bin\Debug\net6.0\HOMEWORK_2.deps.json
+C:\Users\Konstantin\Desktop\хочу стать умней\c_Lesson2\HOMEWORK_2\bin\Debug\net6.0\HOMEWORK_2.runtimeconfig.json
+C:\Users\Konstantin\Desktop\хочу стать умней\c_Lesson2\HOMEWORK_2\bin\Debug\net6.0\HOMEWORK_2.dll
+C:\Users\Konstantin\Desktop\хочу стать умней\c_Lesson2\HOMEWORK_2\bin\Debug\net6.0\HOMEWORK_2.pdb
+C:\Users\Konstantin\Desktop\хочу стать умней\c_Lesson2\HOMEWORK_2\obj\Debug\net6.0\HOMEWORK_2.csproj.AssemblyReference.cache
+C:\Users\Konstantin\Desktop\хочу стать умней\c_Lesson2\HOMEWORK_2\obj\Debug\net6.0\HOMEWORK_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Konstantin\Desktop\хочу стать умней\c_Lesson2\HOMEWORK_2\obj\Debug\net6.0\HOMEWORK_2.AssemblyInfoInputs.cache
+C:\Users\Konstantin\Desktop\хочу стать умней\c_Lesson2\HOMEWORK_2\obj\Debug\net6.0\HOMEWORK_2.AssemblyInfo.cs
+C:\Users\Konstantin\Desktop\хочу стать умней\c_Lesson2\HOMEWORK_2\obj\Debug\net6.0\HOMEWORK_2.csproj.CoreCompileInputs.cache
+C:\Users\Konstantin\Desktop\хочу стать умней\c_Lesson2\HOMEWORK_2\obj\Debug\net6.0\HOMEWORK_2.dll
+C:\Users\Konstantin\Desktop\хочу стать умней\c_Lesson2\HOMEWORK_2\obj\Debug\net6.0\refint\HOMEWORK_2.dll
+C:\Users\Konstantin\Desktop\хочу стать умней\c_Lesson2\HOMEWORK_2\obj\Debug\net6.0\HOMEWORK_2.pdb
+C:\Users\Konstantin\Desktop\хочу стать умней\c_Lesson2\HOMEWORK_2\obj\Debug\net6.0\HOMEWORK_2.genruntimeconfig.cache
+C:\Users\Konstantin\Desktop\хочу стать умней\c_Lesson2\HOMEWORK_2\obj\Debug\net6.0\ref\HOMEWORK_2.dll
